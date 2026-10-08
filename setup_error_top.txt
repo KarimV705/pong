@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "<string>", line 16, in <module>
+  File "E:\TD Projects/pong\setup_project_top.py", line 43, in build_network_top
+    layout.par.layout = 'grid'
+    ^^^^^^^^^^^^^^^^^
+td.tdAttributeError: 'td.ParCollection' object has no attribute 'layout' Context:/project1/pong_game/layout1

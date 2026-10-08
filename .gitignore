@@ -1,0 +1,16 @@
+# Backups & autosaves
+Backup/
+logs/
+CrashAutoSave*
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# System / Tools
+.DS_Store
+Thumbs.db
+.mcp.json
